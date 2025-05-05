@@ -14,6 +14,7 @@
 ## 커리큘럼별 정리 (링크 예정)
 
 - [Week 1 - C 언어 기초 학습 정리](./week1_c.md)
+- [Week 2 - 배열과 포인터](./week2_array_pointer.md)
 
 ---
 
