@@ -15,6 +15,7 @@
 
 - [Week 1 - C 언어 기초 학습 정리](./week1_c.md)
 - [Week 2 - 배열과 포인터](./week2_array_pointer.md)
+- [Week 3 - 문자열 처리와 문자열 함수 구현](./week3_string.md)
 
 ---
 
